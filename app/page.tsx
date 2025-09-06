@@ -28,10 +28,10 @@ export default function EnduroRentalPage() {
               />
             </div>
 
-            <h1 className="text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-6 text-balance text-primary font-montserrat leading-tight text-center px-4 mx-auto max-w-full">
-              <span className="whitespace-nowrap">Прокат мотоциклов</span> <br className="block sm:hidden" />
-              <span className="whitespace-nowrap">ENDURO в Караганде</span>
-            </h1>
+            <h1 className="text-3xl xs:text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl font-bold mb-6 text-balance text-primary font-montserrat leading-tight text-center px-2 xs:px-4 mx-auto max-w-full break-words">
+  <span className="whitespace-nowrap">Прокат мотоциклов</span> <br className="block sm:hidden" />
+  <span className="whitespace-nowrap">ENDURO в Караганде</span>
+</h1>
 
             <p className="text-xl xs:text-2xl sm:text-3xl md:text-4xl lg:text-5xl mb-8 text-balance font-medium leading-relaxed">
               Катайся от 60 минут до 4х часов!
